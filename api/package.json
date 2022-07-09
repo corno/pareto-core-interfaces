@@ -1,0 +1,21 @@
+{
+  "author": "Corno",
+  "bin": {},
+  "files": [
+    "dist"
+  ],
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/corno/pareto-core-interfaces/issues"
+  },
+  "description": "",
+  "homepage": "https://github.com/corno/pareto-core-interfaces#readme",
+  "license": "ISC",
+  "name": "pareto-core-interfaces",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/corno/pareto-core-interfaces.git"
+  },
+  "types": "dist/index.d.ts",
+  "version": "0.0.0"
+}
