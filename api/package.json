@@ -17,5 +17,5 @@
     "url": "git+https://github.com/corno/pareto-core-interfaces.git"
   },
   "types": "dist/index.d.ts",
-  "version": "0.0.0"
+  "version": "0.1.0"
 }
